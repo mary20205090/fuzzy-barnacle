@@ -11,7 +11,8 @@
                 </p>
                 <div class="row mt-5 marketingRow">
                    <div class="col-md-4">
-                      <i class="fa fas fa-hands-helping fa-3x"></i>
+                   <button class="btn btn-primary me-md-2" type="button"><i class="fa fas fa-hands-helping fa-3x"></i>
+</button>
                       <h4 class="mt-4">
                           <strong>Brighter Future</strong>
                         </h4>
@@ -23,7 +24,7 @@
                    </div>
 
                    <div class="col-md-4">
-                       <i class="fa fas fa-people-carry fa-3x"></i>
+                   <button class="btn btn-primary me-md-2" type="button"><i class="fa fas fa-people-carry fa-3x"></i></button>
                        <h4 class="mt-4"><strong>Qualified Teachers</strong></h4>
                        <div class="border"></div>
                        <p>
@@ -33,7 +34,8 @@
                     </div>
 
                     <div class="col-md-4">
-                       <i class="fa fa-book fa-3x"></i>
+                    <button class="btn btn-primary me-md-2" type="button"><i class="fa fa-book fa-3x"></i></button>
+ 
                        <h4 class="mt-4"><strong>State-of-The-Art Facilities</strong></h4>
                        <div class="border"></div>
                        <p>
